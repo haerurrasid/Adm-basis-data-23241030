@@ -1,5 +1,5 @@
--- nama : Rifki Azwari
--- NIM : 23241037
+-- nama : haerur rasid
+-- NIM : 23241030
 -- Kelas : PTI A
 
 -- Melihat Database Dalam mySQL
