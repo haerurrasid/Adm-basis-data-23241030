@@ -1,7 +1,7 @@
 -- Nama: haerur rasid
 -- Nim: 23241030
 -- Kelas: A/4
--- Modul: Modul 1 - SELECT Statement, Prefic dan Alias
+-- Modul-4
 
 -- Membuat database baru
 CREATE DATABASE IF NOT EXISTS PTI_MART;
